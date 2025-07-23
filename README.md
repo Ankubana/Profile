@@ -32,24 +32,24 @@ src="https://img.shields.io/github/followers/Ankubana?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ankubana"><img src="https://github-readme-stats.vercel.app/api?username=Ankubana&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Ankubana's GitHub stats" /></a>
+<a href="http://www.github.com/Ankubana"><img src="https://github-readme-stats.vercel.app/api?username=Ankubana&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Ankubana's GitHub stats" /></a>
 
-<a href="http://www.github.com/Ankubana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankubana&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Ankubana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankubana&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Ankubana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankubana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ankubana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankubana&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Ankubana/Movies_Ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankubana&repo=Movies_Ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Ankubana/Alpha_Ecommerce_Library" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankubana&repo=Alpha_Ecommerce_Library&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Ankubana/Movies_Ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankubana&repo=Movies_Ecommerce&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Ankubana/Alpha_Ecommerce_Library" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankubana&repo=Alpha_Ecommerce_Library&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Ankubana/Alphonse-internship" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankubana&repo=Alphonse-internship&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Ankubana/E-portifolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankubana&repo=E-portifolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Ankubana/Alphonse-internship" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankubana&repo=Alphonse-internship&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Ankubana/E-portifolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankubana&repo=E-portifolio&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Buy Me a Coffee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/KO-FI"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
